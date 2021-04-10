@@ -1,0 +1,14 @@
+.Controls {
+  margin: 0 auto;
+  display: grid;
+  height: 80vh;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  grid-template-areas: 
+    "button-67 button-67 button-9003 button-247"
+    "button-55 button-56 button-57 button-215"
+    "button-52 button-53 button-54 button-45"
+    "button-49 button-50 button-51 button-43"
+    "button-48 button-48 button-46 button-61";
+}
+
